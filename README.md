@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lou-V
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning a bunch of stuff
 
 
 <!---
